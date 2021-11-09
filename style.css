@@ -1,11 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+}
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    justify-content: left;
-    background-color: lightseagreen;
+    background-color: lightseagreen;   
 }
-nav{
-    text-align: left;
-    justify-content: left;
-    
+.navbar{
+    position: fixed;
+    width: 300px;
+    margin: auto;
+    height: 100% ;
+    background-color: lightblue;
+    float:left;
+    font-size: 30px;
+}
+.main.doc{
+    margin: auto;
+    margin-left: 300px;
 }
 
