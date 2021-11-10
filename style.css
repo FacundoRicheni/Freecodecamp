@@ -5,19 +5,20 @@
     }
 
 .headernav{
+    color: seashell;
     font-size: 65px;
     text-align: center;
-    background-color:seagreen;      
+    background-color:rgba(23, 109, 60, 0.678);      
     }
 
 nav{
+    color: seashell;
     float: left;
     position: fixed;
     width: 300px;
     height: 100%;
-    background-color:rgba(46, 139, 86, 0.733);
+    background-color:rgba(34, 104, 64, 0.836);
 }
-
 
 
 ul{
@@ -32,6 +33,7 @@ ul{
     border-bottom: 1px solid #323232 ;
     overflow: hidden;
     border-top: 1px solid #323232 ;
+    
 }
 
 p.Menu {
